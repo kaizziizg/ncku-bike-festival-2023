@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ncku-bike-festival-2023/static/css/main.c6c4cc70.css",
-    "main.js": "/ncku-bike-festival-2023/static/js/main.aa371328.js",
+    "main.js": "/ncku-bike-festival-2023/static/js/main.9a0c74d5.js",
     "index.html": "/ncku-bike-festival-2023/index.html",
     "main.c6c4cc70.css.map": "/ncku-bike-festival-2023/static/css/main.c6c4cc70.css.map",
-    "main.aa371328.js.map": "/ncku-bike-festival-2023/static/js/main.aa371328.js.map"
+    "main.9a0c74d5.js.map": "/ncku-bike-festival-2023/static/js/main.9a0c74d5.js.map"
   },
   "entrypoints": [
     "static/css/main.c6c4cc70.css",
-    "static/js/main.aa371328.js"
+    "static/js/main.9a0c74d5.js"
   ]
 }
