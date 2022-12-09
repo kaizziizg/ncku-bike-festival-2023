@@ -1,5 +1,5 @@
 import * as React from "react";
-import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
+import { createHashRouter, RouterProvider, Route } from "react-router-dom";
 
 import ErrorPage from "./error-page";
 import Root from "./routes/Root";
@@ -9,7 +9,7 @@ import Souvenir from "./routes/Souvenir"
 import Sponsor from "./routes/Sponsor"
 import WebsiteTraffic from "./routes/WebsiteTraffic";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
 	{
 		path: "/",
 		element: <Root />,
